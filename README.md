@@ -2,4 +2,4 @@
 # Guess_The_Num_Game
 Here in this the code generates a random number in the backend and you have to guess the number .
 
-🔗Link to game: shorturl.at/pzDQX
+🔗Link to game:  (https://63a12941a70e5421ffd1d962--candid-beignet-1c4dd7.netlify.app/)
